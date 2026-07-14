@@ -15,6 +15,7 @@ ________________________________________________________________________________
 RESULTS AND DISCUSSION:
 
 Using the census I conducted, at first, correlation charts, and then several models for my path analysis. But it seemed like every model I fit, the data became saturated, and did not behave in theory as expected. So, dropping that, I assumed the OLS regression model on whether or not county-level population size predicts the proportion with no high school graduation. 
+
 FIGURE 1.
 <img width="440" height="226" alt="Rplot03" src="https://github.com/user-attachments/assets/0df43fe1-294f-42ec-8af1-0257d46c4ff0" />
 
