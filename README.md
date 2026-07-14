@@ -21,6 +21,7 @@ FIGURE 1.
 
 This graph displays that there is no evidence that the county population size predicts the proportion of people with no high school graduation in the data. Another multiple regression model was created, this time with variables of total_race, and white, were included. This model displays that for each additional person in the county, the proportion with no high school graduation decreases by a small amount. So larger counties tend to have a slightly lower proportion of people with no high school graduation, holding the variable (-0.1) prop_white constant. For each -1 unit increases in the proportion of white residents, the proportion with no high school graduation decreases by 0.14, holding the variable total_race constant. Meaning, counties with a higher proportion of white residents have a lower proportion with no highschool graduation. 
 
+
 FIGURE 2.
 <img width="440" height="226" alt="Rplot04" src="https://github.com/user-attachments/assets/f48dfbad-10ab-4027-86ec-ff087d3b24c7" />
 
